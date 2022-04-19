@@ -9,18 +9,15 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mostafa-bouziane-49732b11b/">
+  <a href="https://www.linkedin.com/in/amine-sadeq-b6348b108/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=0v_e7q8AAAAJ&hl=fr">
+  <a href="https://scholar.google.com/citations?user=70IXjJMAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google-scholar?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/MostafaBouzian2">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=mostafabouz&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=sadeqa&style=flat-square&color=blue" alt=""/>
   </div>
 
 ### 👨‍🔬 About Me
@@ -28,20 +25,17 @@ I am a Data scientist from France 🇫🇷 of Moroccan 🇲🇦 origin.
 
 - :telescope: I’m currently working on Fact-checking and fake news detection using NLP @buster.ai
 
-- :seedling: Currently Learning ML Ops.
-
 - 👐: I'm passionate about new technologies and continuous contributions.
 
-- 🥤 What I do in my free time : 🎵 🏞️ 🧑‍💻 💪
+- 🥤 What I do in my free time : 🕹️ 🏞️ 🧑‍💻 
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mostafa-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-bouziane-49732b11b/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Amine-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amine-sadeq-b6348b108/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
 - Programming languages : 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-A8A4A3?style=flat&logo=r&logoColor=white)
-![Matlab](https://img.shields.io/badge/matlab-%20-brightgreen?style=flat&logo=matlab&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
@@ -65,5 +59,5 @@ I am a Data scientist from France 🇫🇷 of Moroccan 🇲🇦 origin.
 ![VSCode](https://img.shields.io/badge/VSCode-%20-lightgrey?style=flat&logo=vscodium&logoColor=white)
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafabouz&count_private=true&show_icons=true&locale=en" alt="mostafabouz" />  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadeqa&count_private=true&show_icons=true&locale=en" alt="sadeqa" />  
 </div>
